@@ -1,5 +1,6 @@
+// rock paper scisor game 
 import random
-
+// initialization
 user_wins = 0
 computer_wins = 0
 
