@@ -12,7 +12,7 @@ if top_of_range.isdigit():
 else:
     print('Please type a number next time.')
     quit()
-
+// generate a random integer value 
 random_number = random.randint(0, top_of_range)
 guesses = 0
 
